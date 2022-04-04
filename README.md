@@ -1,5 +1,5 @@
 # t-schill-dev.github.io
-# How to upload zour page on GitHub
+# How to upload your page on GitHub
 
 1. Create a branch in your project 'gh-pages'
 2. Publish branch
